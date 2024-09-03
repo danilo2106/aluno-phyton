@@ -41,11 +41,15 @@ if more ==("2550"):
     print("voce errou")
 
 print("qual o nome do maior oceano do planeta terra?")
-print("atlântico\n pacífico\n índico\n")
+print("atlantico\n pacifico\n indico\n")
 kl = input("resposta/")
-if kl ==("atlântico"):
+if kl ==("atlantico"):
     print("voce errou")
-if kl ==("pacífico"):
+if kl ==("pacifico"):
     print("voce acertou")
-if kl ==("índico"):
+if kl ==("indico"):
     print("voce errou")
+    
+print("fim de jogo")
+
+print("pontução final 4/4 parabens")
